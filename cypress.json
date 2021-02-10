@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://localhost:8080/",
+  "watchForFileChanges": false,
+  "numTestsKeptInMemory": 0,
+  "screenshotOnRunFailure": false,
+  "defaultCommandTimeout": 10000,
+  "requestTimeout": 10000,
+  "chromeWebSecurity": false
+}
