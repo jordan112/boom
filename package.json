@@ -1,21 +1,10 @@
 {
-  "name": "boom",
-  "version": "1.0.0",
-  "description": "Starter kit for front end websites focused on speed and modern technologies",
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"This template does not include a test runner by default.\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jordan112/boom.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jordan112/boom/issues"
-  },
-  "homepage": "https://github.com/jordan112/boom#readme"
+  "devDependencies": {
+    "snowpack": "^3.0.1"
+  }
 }
