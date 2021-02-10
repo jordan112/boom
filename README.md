@@ -1,6 +1,4 @@
-# New Project
-
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+# Boom - Modern starter kit for hyper fast front end websites!
 
 ## Available Scripts
 
