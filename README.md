@@ -1,5 +1,19 @@
 # Boom - Modern starter kit for hyper fast front end websites!
 
+## Quick Start
+
+    npx degit jordan112/boom#main my-fancy-new-fast-site
+
+Run this command and be sure to name the folder whatever you choose
+
+````
+    cd my-fancy-new-fast-site
+    npm i
+    npm start
+````
+
+This will load the site in your browser at http://localhost:8080/
+
 ## Available Scripts
 
 ### npm start
