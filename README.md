@@ -2,6 +2,8 @@
 
 ## Quick Start
 
+Run this command and that will clone the repo and create a new folder and repo for it
+
     npx degit jordan112/boom#main my-fancy-new-fast-site
 
 Run this command and be sure to name the folder whatever you choose
